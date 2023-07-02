@@ -64,9 +64,9 @@ Git，SubVersion，CVSです．
 
 OSです．
 Windows, Linux, iOS, Androidです．
-PCからスマホへのテクノロジーの移り変わりが明確です．
-iOSにはCiscoのも含まれているかもしれません．
+2010年のVol.57でのAndroid特集, 2011年のVol.61でのiPhone Android特集を境に, PCからスマホへのテクノロジーの移り変わりが明確です．
 macOSも数えていたのですが件数が少なかったため割愛しました．
+なおカウントのiOSにはCiscoのも含まれているかもしれません．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0010.jpg)
 
 ブラウザです．
