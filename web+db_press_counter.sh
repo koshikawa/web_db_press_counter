@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORDS=("php" "java" "python" "ruby" "perl" "c#" "go" "jsp" "servlet" "javascript" "typescript" "actionscript" "jquery" "node" "react" "vue" "aws" "docker" "mysql" "postgresql" "oracle" "html" "xml" "json" "css" "apache" "nginx" "iis" "git" "subversion" "cvs" "linux" "windows" "ios" "android" "chrome" "firefox" "safari" "twitter" "facebook" "mixi" "google" "yahoo" "mail")
+WORDS=("php" "java" "python" "ruby" "perl" "swift" "go" "jsp" "servlet" "javascript" "typescript" "actionscript" "jquery" "node" "react" "vue" "aws" "docker" "mysql" "postgresql" "oracle" "html" "xml" "json" "css" "apache" "nginx" "iis" "git" "subversion" "cvs" "linux" "windows" "ios" "android" "chrome" "firefox" "safari" "twitter" "facebook" "mixi" "google" "yahoo" "mail")
 
 echo "Vol,$(IFS=,; echo "${WORDS[*]}")"
 for VOL in `seq 1 135`
