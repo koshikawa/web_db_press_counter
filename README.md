@@ -81,6 +81,10 @@ Google, Twitterが多くなっています．
 かつてはFacebookやyahooも多く扱われていました．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0012.jpg)
 
+## 過去から現在は理解した，未来は？
+
+WEB+DBなき未来を読む．
+
 
 ## requirement
 - 雑誌『WEB+DB PRESS』のPDF版 Vol.1からVol.135まで
