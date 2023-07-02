@@ -35,12 +35,12 @@ JavaScriptのフレームワークも調べてみました．
 Javaの衰退とともに普及したのがJavaScriptです．
 ここではなんちゃらScriptとの観点でグラフ化しました．
 JavaScriptとともにActionScriptも頻繁に取り上げられましたがこちらは衰退しました．
-2013年のVol.75でTypeScriptとして扱われ，以降はJavaScriptとTypeScript双方が扱われるようになっています．
+2013年のVol.75でTypeScriptが扱われ，以降はJavaScriptとTypeScript双方が扱われるようになっています．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0005.jpg)
 
 WEB+DB PRESSでもインフラの話題は扱われています．
 AWSとDockerを数えてみました．
-AWSは2007年のVol.39，Dockerは2014年のVol.79が初出でした．
+AWSは2006年のVol.32，Dockerは2014年のVol.79が初出でした．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0006.jpg)
 
 HTML関連も数えてみました．
@@ -78,7 +78,7 @@ Netscapeも件数は多くありません．
 
 技術とは若干離れますが，メディア関連の出現回数です．
 Google, Twitterが多くなっています．
-かつてはFacebookやyahooも多くあつかわれていました．
+かつてはFacebookやyahooも多く扱われていました．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0012.jpg)
 
 
