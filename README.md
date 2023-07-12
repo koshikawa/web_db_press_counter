@@ -18,7 +18,7 @@ WEB+DB PRESSのもう一つのテクノロジーであるDBごとのグラフで
 MySQL，PostgreSQL，Oracleを取り上げました．
 創刊から2年ほどはPostgreSQLが多く取り上げていますが，それ以降はMySQLが多くなっています．
 それでもMySQL・PostgreSQLともに現在まで定期的に扱われています．
-2000年代前半ははまだオープンソースDBの信頼度が低かったためか，商用DBのOracleも扱われていました．
+2000年代前半はまだオープンソースDBの信頼度が低かったためか，商用DBのOracleも扱われていました．
 RedisなどのNoSQLも数えはしたのですが，グラフ化するほどの出現頻度はなかったため除外しています．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0002.jpg)
 
@@ -27,14 +27,14 @@ JavaScriptのフレームワークも調べてみました．
 なおnodeは普通名詞ですのでNode.js以外の文脈でもカウントされています．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0003.jpg)
 
-では2007年までの6〜7年間でなにが取り上げられているかを調べると，圧倒的にJavaでした．
+では2007年までの6〜7年間はなにが取り上げられているかを調べると，圧倒的にJavaでした．
 隔月刊のJAVA PRESSも創刊されていて，同じく隔月刊のWEB+DB PRESSも実質的にJava雑誌でしたので，2ヶ月で交互にJava情報が提供される状態でした．
 しかしJAVA PRESSは2006年に休刊となってしまいます．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0004.jpg)
 
-Javaの衰退とともに普及したのがJavaScriptです．
+Javaの衰退に代わって普及したのがJavaScriptです．
 ここではなんちゃらScriptとの観点でグラフ化しました．
-JavaScriptとともにActionScriptも頻繁に取り上げられましたがこちらは衰退しました．
+JavaScriptとともにActionScriptも一時期頻繁に取り上げられましたが，こちらは衰退しました．
 2013年のVol.75でTypeScriptが扱われ，以降はJavaScriptとTypeScript双方が扱われるようになっています．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0005.jpg)
 
@@ -58,21 +58,21 @@ WEB+DB PRESS創刊当初はIISや.NETといったのWindows技術も多く扱わ
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0008.jpg)
 
 時代の移り変わりがわかりやすい技術としてバージョン管理も扱いました．
-Git，SubVersion，CVSです．
+CVS，SubVersion，Gitです．
 2000年以前のCVS，2000年代のSubVersion，2010年代のGitとのバージョン管理技術の推移がわかります．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0009.jpg)
 
 OSです．
-Windows, Linux, iOS, Androidです．
+Windows，Linux，iOS，Androidです．
 2010年のVol.57でのAndroid特集, 2011年のVol.61でのiPhone Android特集を境に, PCからスマホへのテクノロジーの移り変わりが明確です．
 macOSも数えていたのですが件数が少なかったため割愛しました．
 なおカウントのiOSにはCiscoのも含まれているかもしれません．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0010.jpg)
 
 ブラウザです．
-chrome，firefox,safariを扱いました．
+chrome，firefox，safariを扱いました．
 件数は最大でも80件で，他のグラフと比べて少なくなっています．
-黎明期はInternet ExplorerやNetscapeが扱われていましたが，IEは2単語で検索しにくかったことから除外しました．
+黎明期はInternet ExplorerやNetscapeが扱われていましたが，Internet Explorerは2単語で検索しにくかったことから除外しました．
 Netscapeも件数は多くありません．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_pages-to-jpg-0011.jpg)
 
