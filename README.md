@@ -81,10 +81,11 @@ Google, Twitterが多くなっています．
 かつてはFacebookやyahooも多く扱われていました．
 ![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_page-0012.jpg)
 
-## 過去から現在は理解した，未来は？
-
-WEB+DBなき未来を読む．
-
+エディタです．
+トータルの回数としてはEclipseが圧倒的でした．
+vim?はviとvimの合計です．
+Emacsかvimかの宗教論争にならず, vscodeはもっと多いかと思いましたが正式名称のVisual Studio Codeが多いためか少なく, 意外でした．
+![webdb](https://github.com/koshikawa/web_db_press_counter/blob/main/jpg/web+db_press_counter_page-0013.jpg)
 
 ## requirement
 - 雑誌『WEB+DB PRESS』のPDF版 Vol.1からVol.136まで
@@ -106,7 +107,7 @@ PDFからテキストに変換した1行に単語が含まれるかを判断し�
 それでも実行したい場合は下記手順で
 - web+db_press　との名前でディレクトリを作成し，PDFを置いてください．ファイル名はVolの数値だけとします．
 - to_text.sh を実行し，pdfからテキストファイルを抽出します．
-- シェルスクリプトを実行すると，標準出力にCSVを出力します．
+- web+db_press_counter.sh > web+db_press_counter.csv を実行すると，CSVを出力します．
 - CSVをExcelファイルに手作業で編集します
 - Excelのグラフ機能でグラフを作成します
 - ExcelのグラフをPDF形式で出力します
