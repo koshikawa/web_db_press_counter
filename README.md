@@ -90,8 +90,8 @@ Emacsかvimかの宗教論争にならず, vscodeはもっと多いかと思い�
 ## requirement
 - 雑誌『WEB+DB PRESS』のPDF版 Vol.1からVol.136まで
 
-私は技術評論社のGihyo Digital Publishing( https://gihyo.jp/dp )から購入して入手しましたが．
-2024年にはVol.1 から Vol.136 までの総集編( https://gihyo.jp/book/2024/978-4-297-14156-1 )が発売されました．
+私は技術評論社の[Gihyo Digital Publishing](https://gihyo.jp/dp)から購入して入手しましたが，　
+2024年に[Vol.1からVol.136までの総集編](https://gihyo.jp/book/2024/978-4-297-14156-1)が発売されました．
 総集編の購入をお勧めします．
 
 - pdftotext
